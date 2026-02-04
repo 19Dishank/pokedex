@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.blob {
+  aspect-ratio: 1;
+  clip-path: shape(from 83.18% 71.17%,curve to 78.95% 81.30% with 81.12% 75.75%,curve to 72.14% 90.53% with 76.77% 86.84%,curve to 61.07% 90.41% with 67.51% 94.23%,curve to 49.73% 88.72% with 54.62% 86.59%,curve to 39.08% 91.48% with 44.84% 90.84%,curve to 27.19% 90.97% with 33.33% 92.11%,curve to 21.39% 81.61% with 21.06% 89.84%,curve to 13.47% 72.23% with 21.73% 73.39%,curve to 6.32% 64.60% with 5.21% 71.08%,curve to 11.19% 52.96% with 7.44% 58.12%,curve to 14.40% 43.03% with 14.95% 47.79%,curve to 15.10% 33.45% with 13.86% 38.26%,curve to 18.14% 23.32% with 16.34% 28.64%,curve to 24.37% 14.71% with 19.95% 18.00%,curve to 34.61% 12.06% with 28.79% 11.42%,curve to 45.21% 10.35% with 40.42% 12.70%,curve to 55.95% 5.84% with 50.00% 8.00%,curve to 66.82% 7.06% with 61.89% 3.68%,curve to 74.52% 15.69% with 71.74% 10.45%,curve to 79.20% 25.60% with 77.29% 20.93%,curve to 81.90% 34.82% with 81.11% 30.26%,curve to 88.41% 43.30% with 82.69% 39.38%,curve to 96.39% 53.25% with 94.13% 47.22%,curve to 91.95% 62.93% with 98.66% 59.28%,curve to 83.18% 71.17% with 85.25% 66.59%);
+}
