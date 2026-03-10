@@ -49,7 +49,7 @@ function PokeItem({ search }) {
                     <div className="h-full bg-blue-950 w-full origin-left animate-[loading_1.5s_infinite_ease-in-out]"></div>
                 </div>
                 <p className="text-[10px] font-bold text-slate-400 mt-2 uppercase tracking-[0.2em]">
-                    It Might Take A While May Be more than Minute 
+                    It Might Take A While, May Be more than Minute 
                 </p>
             </div>
         </div>
