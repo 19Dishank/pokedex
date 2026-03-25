@@ -79,9 +79,9 @@ src/
 ---
 
 # 9. Deployment URL
-Not currently deployed
+https://pokedex-puce-two-79.vercel.app/
 
 ---
 
 # 10. GitHub Repository URL
-Not provided
+https://github.com/19Dishank/pokedex
